@@ -2,6 +2,8 @@
 
 We were assigned to create a Pygame implementation of the Car Racing game mainly using an object-oriented programming approach. We chose to develop a "Cars" movie-themed racing game. 🎥
 
+<img src = "https://github.com/ashoollakhani/cars-game/blob/main/Images/M_menu.png" height=100% width=100%>
+
 ---
 
 ## "Cars" Racing Game 🏁
